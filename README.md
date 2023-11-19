@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Aspiring Web Developer learning Full-Stack using JavaScript, HTML and CSS</h3>
 
 
-_____________________________![TauseefGit](https://github.com/Tauseefyusufzai/Tauseefyusufzai/assets/138979340/fe77cfa0-62a7-4142-8dc2-ede47fb5e19b) ______________________________
+_________________________________![TauseefGit](https://github.com/Tauseefyusufzai/Tauseefyusufzai/assets/138979340/fe77cfa0-62a7-4142-8dc2-ede47fb5e19b) __________________________
 
 
 - 🏢 I'm currently pursuing B.Tect in Computer Science Engineering from Institute of Technology and Management GIDA, Gorakhpur.
@@ -71,7 +71,7 @@ _____________________________![TauseefGit](https://github.com/Tauseefyusufzai/Ta
 
 
 ---
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github-contributor-stats.vercel.app/api?username=Tauseefyusufzai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![](https://github-contributor-stats.vercel.app/api?username=Tauseefyusufzai&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tauseefyusufzai&icon=0&color=1)](https://visitcount.itsvg.in)
