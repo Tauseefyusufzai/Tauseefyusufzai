@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">Aspiring Web Developer learning Full-Stack using JavaScript, HTML and CSS</h3>
 
 
-________________________________________![TauseefGit](https://github.com/Tauseefyusufzai/Tauseefyusufzai/assets/138979340/fe77cfa0-62a7-4142-8dc2-ede47fb5e19b) ________________________________________
+_____________________________![TauseefGit](https://github.com/Tauseefyusufzai/Tauseefyusufzai/assets/138979340/fe77cfa0-62a7-4142-8dc2-ede47fb5e19b) ______________________________
 
 
 - 🏢 I'm currently pursuing B.Tect in Computer Science Engineering from Institute of Technology and Management GIDA, Gorakhpur.
