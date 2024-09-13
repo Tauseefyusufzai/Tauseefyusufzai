@@ -3,15 +3,12 @@ Tauseefyusufzai/Tauseefyusufzai is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Tauseef Akhtar Yusufzai</h1>
-<h3 align="center">Aspiring Web Developer learning Full-Stack using JavaScript, HTML and CSS</h3>
-
-
-_________________________________![TauseefGit](https://github.com/Tauseefyusufzai/Tauseefyusufzai/assets/138979340/fe77cfa0-62a7-4142-8dc2-ede47fb5e19b) __________________________
+<h3 align="center">I am a dedicated and enthusiastic developer with a deep interest in <br>Game Development, Web Development and Software Development.</h3>
 
 
 - 🏢 I'm currently pursuing B.Tect in Computer Science Engineering from Institute of Technology and Management GIDA, Gorakhpur.
-- 👀 I’m interested in Web Development, Game Development, Graphic Designing, 
-- 🌱 I’m currently learning react and JavaScript and Unity Hub
+- 👀 I’m interested in Game Development, Web Development, Software Development and Graphic Designing, 
+- 🌱 I’m currently learning react, C#, Game mechanics and Unity
 - 💞️ I’m looking to collaborate on frontend Project
 - 📫 How to reach me tauseefakhtaryusufzai@gmai.com
 
